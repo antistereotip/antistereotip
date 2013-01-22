@@ -1,0 +1,4 @@
+antistereotip
+=============
+
+anti stereotip
