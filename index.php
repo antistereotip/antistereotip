@@ -31,7 +31,7 @@
 <section class="left ex8">
 <h1>Naslov</h1>
 <p>Paragraf</p>
-<img src="media/anon.jpg" width="100%" height="auto" alt="anon">
+<img src="anon.jpg" width="100%" height="auto" alt="anon">
 </section>
 
 <section class="right ex8">
