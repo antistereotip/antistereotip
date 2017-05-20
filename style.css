@@ -1,0 +1,101 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, 
+address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, 
+var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, 
+thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, 
+nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; 
+font-size: 100%; font: inherit; vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+
+body {
+	width: 98%;
+	padding: 1%;
+    	color: #05b52b;
+    	background-color: #000000;
+}
+
+marquee {
+	padding: 1%;
+	color: yellow;
+}
+
+.left {
+	width: 48%;
+	padding: 1%;
+	float: left;
+	background: #333;
+}
+
+.right {
+	width: 23%;
+	padding: 1%;
+	float: left;
+	background: #222;
+}
+
+aside {
+	width: 23%;
+	padding: 1%;
+	float: left;
+	background: #222;
+}
+
+h1 {
+	font-size: 1.3em;
+}
+
+p {
+	color: #fff;
+}
+
+img {
+	padding-top: 1%;
+}
+
+nav {
+	padding-top:1%;
+	padding-bottom:1%;
+}
+
+
+nav ul {
+	list-style-type: none;
+}
+
+nav ul li {
+	display: inline;
+	color: white;
+	margin-top:10px;
+	background: #f55;
+	padding: 1%;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;	
+}
+
+
+.ex7 { width: 100%; border-bottom: 1px solid #414141;  border-top: 1px solid #414141;  background: #111; height: auto; line-height: 15px; color: transparent; font-size: 30px; font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif; float: left;  font-weight: 300;  -webkit-transition: all 0.5s ease; -moz-transition: all 0.5s ease; -o-transition: all 0.5s ease; } 
+.ex7 p { background: #111; }
+.ex7:hover { line-height: 100px; color: #575858;}   
+.ex7 img{ float: left; margin: 10px; }
+
+.ex8 {
+
+-webkit-animation: cssAnimation 1s 1 ease;
+-moz-animation: cssAnimation 1s 1 ease;
+-o-animation: cssAnimation 1s 1 ease;
+}
+@-webkit-keyframes cssAnimation {
+from { -webkit-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -webkit-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+@-moz-keyframes cssAnimation {
+from { -moz-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -moz-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+@-o-keyframes cssAnimation {
+from { -o-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -o-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
