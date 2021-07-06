@@ -12,7 +12,7 @@
 </style>
 </head>
 <body style="background: #0e0e0e;">
-  <h1>Ghost Protocol</h1>
+  <h1>Ghost Protocol - Antistereotip</h1>
 <img style="-webkit-user-select: none;" src="supernet.gif" width="500" class="center">
 </body>
 </html>
