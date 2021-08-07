@@ -1,14 +1,6 @@
 ## Antistereotip - BUDITE STRPLJIVI, PROJEKAT U PRIPREMI
 ========================================================
 
-<html>
-<head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<style>
-body {width:90%; padding:5%;text-align:left;}
-</style>
-</head>
-<body>
 
 
 
@@ -451,5 +443,4 @@ Udruženja a primenjivaće se od dana upisa u registar kod nadležnog organa.</p
 </pre>
 </p>
 
-</body>
-</html>
+
