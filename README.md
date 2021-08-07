@@ -1,8 +1,8 @@
 ## Antistereotip - BUDITE STRPLJIVI, PROJEKAT U PRIPREMI
-========================================================
 
-
-
+<p>
+<img src="https://github.com/antistereotip/antistereotip/blob/master/supernet.gif" width="250" />
+</p>
 
 
 <p><blockquote>
