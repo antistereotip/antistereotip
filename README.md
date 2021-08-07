@@ -13,11 +13,10 @@ edukaciju i društveno odgovorne projekte Antistereotip, na sednici održanoj
 </blockquote></p>
 
 
-<center>
-<h1>STATUT<br> 
-<strong>Udruženja građana za besplatnu informatičku edukaciju i društveno odgovorne projekte Antistereotip</strong></h1>
-</center>
-<br><br>
+
+## STATUT 
+- Udruženja građana za besplatnu informatičku edukaciju i društveno odgovorne projekte Antistereotip
+
 
 
 
