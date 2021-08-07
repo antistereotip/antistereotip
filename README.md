@@ -1,6 +1,6 @@
-## Antistereotip
-================
-## Ghost start at year 2025 at 13:37
+## Antistereotip - BUDITE STRPLJIVI, PROJEKAT U PRIPREMI
+========================================================
+### Ghost start at year 2025 at 13:37
 
 ## RIP Danilo Bogdanov
 
