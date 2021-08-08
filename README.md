@@ -1,8 +1,4 @@
 ##### It's not a Bug, it' a Feature.
-- Low Level Programming
-- High Level Programming
-- Open Source
-- Hacktivism
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antistereotip&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
