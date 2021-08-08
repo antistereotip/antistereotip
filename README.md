@@ -1,1 +1,3 @@
-https://img.shields.io/endpoint
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
