@@ -1,6 +1,6 @@
 #### It's not a Bug, it' a Feature. Coding name: Apostols.
 
-<img src="https://github.com/antistereotip/antistereotip/blob/master/logo.png" width="170"/>
+<img src="https://github.com/antistereotip/antistereotip/blob/master/logo.png" width="70"/>
 
 ##### 📱 Contact: milutingavrilovic@gmail.com
 ##### 📱 Encrypted e-mail: threewhiterabbits@protonmail.com
