@@ -2,7 +2,6 @@
 
 <img src="https://github.com/antistereotip/antistereotip/blob/master/logo.png" width="100"/>
 
-##### 📱 Contact: milutingavrilovic@gmail.com
 ##### 📱 Encrypted e-mail: threewhiterabbits@protonmail.com
 
 <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" width="120"/>
