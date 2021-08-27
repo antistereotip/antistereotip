@@ -1,5 +1,8 @@
 ## Simple Cache System
 
+<img src="https://github.com/antistereotip/antistereotip/blob/master/logo.png" width="150" />
+
+
 - TopCache (top-cache.php) and BottomCache 
 (bottom-cache.php) are included on start 
 script and on the end of the script.
