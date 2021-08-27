@@ -2,7 +2,7 @@
 
 include('top-cache.php'); 
 
-echo "<p>cached</p>";
+echo "<p>Jednostavan sistem kesiranja</p>";
 
 include('bottom-cache.php');
 ?>
