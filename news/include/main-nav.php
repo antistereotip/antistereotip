@@ -10,20 +10,27 @@
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Top news</a>
         </li>
+		<li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#license">License</a>
+        </li>
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#">Uncensured</a>
+          <a class="nav-link" aria-current="page" href="#disclaimer">Disclaimer</a>
+        </li>
+		<li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#privacy-policy">Privacy Policy</a>
+        </li>
+		<li class="nav-item">
+          <a class="nav-link" aria-current="page" href="#contact">Contact</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Main Settings</a>
+          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Settings</a>
           <ul class="dropdown-menu" aria-labelledby="dropdown01">
-            <li><a class="dropdown-item" href="#">Set news priority</a></li>
-            <li><a class="dropdown-item" href="#">Set news visibility</a></li>
+            <li><a class="dropdown-item" href="#">Set news up</a></li>
+            <li><a class="dropdown-item" href="#">Set news down</a></li>
             <li><a class="dropdown-item" href="#">Something else</a></li>
           </ul>
         </li>
-		<li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#">Contact</a>
-        </li>
+
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">

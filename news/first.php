@@ -20,7 +20,7 @@
   <!-- Vesti iz data niza -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
   
-    <h6 class="border-bottom pb-2 mb-0">News</h6>
+    <h6 class="border-bottom pb-2 mb-0">Top News</h6>
 	
 	<?php include './data/first-data.php'; ?>
 	<?php foreach ($content as $row) { ?>

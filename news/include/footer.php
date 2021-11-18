@@ -4,21 +4,21 @@
 	title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
 	clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
-   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
+   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset" id="disclaimer">
 	<h2>Disclaimer</h2><br />
 	<p>A disclaimer is generally any statement intended to specify or delimit the scope of rights and obligations that may 
 	be exercised and enforced by parties in a legally recognized relationship. In contrast to other terms for legally operative 
 	language, the term disclaimer usually implies situations that involve some level of uncertainty, waiver, or risk.</p>
    </div>
-   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
+   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset" id="privacy-policy">
 	<h2>Privacy Policy</h2><br />
 	<p>A privacy policy is a statement or legal document (in privacy law) that discloses some or all of the ways a party gathers, 
    uses, discloses, and manages a customer or client's data. ... Their privacy laws apply not only to government operations 
    but also to private enterprises and commercial transactions.</p>
    </div>
    
-   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
-	<h3>MIT License</h3><br />
+   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset" id="license">
+	<h2>MIT License</h2><br />
 
 	<p>Copyright &#169; 2021 Anonymous</p>
 
@@ -39,6 +39,33 @@
 	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 	SOFTWARE.</p>
+   </div>
+   
+   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset" id="contact">
+	<h2>Contact Us</h2><br />
+	
+
+	<div class="mb-3">
+		<label for="exampleFormControlInput1" class="form-label">Email address</label>
+		<input type="email" class="form-control" id="exampleFormControlInput1" placeholder="email@domain.tld">
+	</div>
+	<div class="mb-3">
+		<label for="exampleFormControlTextarea1" class="form-label">Message</label>
+		<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+	</div>
+		<div class="form-check">
+		<input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" checked>
+		<label class="form-check-label" for="flexRadioDefault1">
+			Default 
+		</label>
+	</div>
+	<div class="form-check">
+		<input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
+		<label class="form-check-label" for="flexRadioDefault2">
+			Second Choice
+		</label>
+	</div><br />
+	<button type="submit" class="btn btn-primary mb-3">Submit</button>
    </div>
    
    <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
