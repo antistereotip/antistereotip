@@ -47,6 +47,8 @@ border-radius: 7px; margin-right: 1%; border: 1px solid #999;
     visibility: visible;
     transform: translateX(-100%);
   }
+  .pictures img {width: 32%;}
+.wide-pictures img {width: 32%;}
 }
 
 .nav-scroller {
@@ -89,8 +91,8 @@ border-radius: 7px; margin-right: 1%; border: 1px solid #999;
 }
 
 @media (max-width: 580px) {
-  .pictures img {width: 45%;}
-  .wide-pictures img {width: 45%;}
+  .pictures img {width: 99%;}
+  .wide-pictures img {width: 99%;}
 }
 
 

@@ -48,9 +48,9 @@
   
   
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
-    <h6 class="border-bottom pb-2 mb-0">Playground</h6>
+    <h6 class="border-bottom pb-2 mb-0">Figures</h6>
 	<div class="pictures">
-	<img src="./media/aska-oprema-za-igraonice-3.png" alt="aska-oprema-za-igraonice-3" />
+	<img src="./media/aska-oprema-za-igraonice-9.png" alt="aska-oprema-za-igraonice-9" />
     <img src="./media/aska-oprema-za-igraonice-4.png" alt="aska-oprema-za-igraonice-4" />
 	<img src="./media/aska-oprema-za-igraonice-5.png" alt="aska-oprema-za-igraonice-5" />
 	</div>
@@ -61,17 +61,18 @@
     <h6 class="border-bottom pb-2 mb-0">Playground</h6>
 	<div class="pictures">
 	<img src="./media/aska-oprema-za-igraonice-1.png" alt="aska-oprema-za-igraonice-1" />
-    <img src="./media/aska-oprema-za-igraonice-2.png" alt="aska-oprema-za-igraonice-2" />
+	<img src="./media/aska-oprema-za-igraonice-3.png" alt="aska-oprema-za-igraonice-3" />
 	<img src="./media/aska-oprema-za-igraonice-6.png" alt="aska-oprema-za-igraonice-6" />
 	</div>
   </div>
   
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
-    <h6 class="border-bottom pb-2 mb-0">Playground</h6>
+    <h6 class="border-bottom pb-2 mb-0">Cages</h6>
 	<div class="pictures">
 	<img src="./media/aska-oprema-za-igraonice-7.png" alt="aska-oprema-za-igraonice-7" />
     <img src="./media/aska-oprema-za-igraonice-8.png" alt="aska-oprema-za-igraonice-8" />
-	<img src="./media/aska-oprema-za-igraonice-9.png" alt="aska-oprema-za-igraonice-9" />
+    <img src="./media/aska-oprema-za-igraonice-2.png" alt="aska-oprema-za-igraonice-2" />
+
 	</div>
   </div>
   
