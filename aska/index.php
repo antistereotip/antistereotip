@@ -13,7 +13,7 @@
   <!-- Prvo pod zaglavlje -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
     <img src="./media/aska.png" width="150" alt="Anonymous" />
-    <h1>Aska status bar</h1>
+    <h1>Aska Status - English</h1>
 	<h2>Phone: +381 64 3939674</h2>
    </div>
 

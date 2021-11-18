@@ -4,14 +4,14 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.88.1">
-    <title>Anonymous</title>
-	<meta property="og:title" content="Anonymous &amp; Uncensured News" />
+    <title>Aska</title>
+	<meta property="og:title" content="Aska &amp; Playground" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="./media/anonymous.png" />
-    <meta property="og:url" content="https://antistereotip.net/news/" />
-    <meta property="og:description" content="Anonymous news and funny and serious things in the World" />
-	<link rel="icon" type="image/png" href="./media/anonymous.png" />
-    <link rel="canonical" href="https://antistereotip.net/news/">
+    <meta property="og:image" content="./media/aska.png" />
+    <meta property="og:url" content="https://antistereotip.net/aska/" />
+    <meta property="og:description" content="Aska, making playground as its best" />
+	<link rel="icon" type="image/png" href="./media/aska.png" />
+    <link rel="canonical" href="https://antistereotip.net/aska/">
 
     
     <!-- Bootstrap core CSS -->

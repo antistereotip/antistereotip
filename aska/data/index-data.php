@@ -2,7 +2,7 @@
 $content = array( 
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "Over 500 facilities in Serbia and the region! Come and see why we belong to the very top when it comes to equipping 
@@ -14,7 +14,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "Equipment we install: Ball pools, Cities and scenery, Beams and bridges, Adventure trails, Trampolines, Volcanoes, 
@@ -23,7 +23,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "Sail into the endless world of imagination! ASKA playroom equipment at your service! 
@@ -31,7 +31,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "Whatever type of topic is in question, we respond to all challenges! A world from a 
@@ -39,7 +39,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "ASKA works exclusively with CERTIFIED and tested materials that are subject to all requirements 
@@ -48,7 +48,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "In addition to playrooms, we have provided our services in many shopping centers, sports fields, 
@@ -56,7 +56,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "The laser maze is a so-called 'Pink Panther' room that contains laser beams, various sensors, 
@@ -65,7 +65,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "For all shooter lovers, the Laser Tag is the top choice! Participants use laser rifles, and the 
@@ -73,7 +73,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "Making trampolines in all shapes and sizes!<br />
@@ -84,7 +84,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "SLIDES<br />
@@ -96,7 +96,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "REPAIR OF PLAYROOMS<br />
@@ -105,7 +105,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "For all shooter lovers, the Laser Tag is the top choice! Participants use laser rifles, and the 
@@ -113,7 +113,7 @@ $content = array(
 	),
 	array(
 	"user" => "aska",
-	"avatar" => "media/robot1.gif",
+	"avatar" => "media/aska.png",
 	"date" => "17 Nov. 2021 at 20:00",
 	"link" => "#",
 	"post" => "For all shooter lovers, the Laser Tag is the top choice! Participants use laser rifles, and the 
