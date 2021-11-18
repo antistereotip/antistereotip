@@ -102,23 +102,7 @@ $content = array(
 	"post" => "REPAIR OF PLAYROOMS<br />
 			We provide a high quality service of overhaul of playrooms both in Serbia and in the surrounding countries!<br />
 			Redesign and overhaul of playrooms from any manufacturer."
-	),
-	array(
-	"user" => "aska",
-	"avatar" => "media/aska.png",
-	"date" => "17 Nov. 2021 at 20:00",
-	"link" => "#",
-	"post" => "For all shooter lovers, the Laser Tag is the top choice! Participants use laser rifles, and the 
-	arena is decorated like a real video game with mazes, obstacles and effective laser lighting."
-	),
-	array(
-	"user" => "aska",
-	"avatar" => "media/aska.png",
-	"date" => "17 Nov. 2021 at 20:00",
-	"link" => "#",
-	"post" => "For all shooter lovers, the Laser Tag is the top choice! Participants use laser rifles, and the 
-	arena is decorated like a real video game with mazes, obstacles and effective laser lighting."
-	),
+	)
 );
 
 ?>
