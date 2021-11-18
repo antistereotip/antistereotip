@@ -69,7 +69,7 @@
    </div>
    
    <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
-    <footer>
+    <footer id="footer">
      <p>Powered by @hightech & Protected by @uskrs</p>
     </footer>
    </div>

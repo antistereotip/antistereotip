@@ -26,7 +26,7 @@
           <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Settings</a>
           <ul class="dropdown-menu" aria-labelledby="dropdown01">
             <li><a class="dropdown-item" href="#">Set news up</a></li>
-            <li><a class="dropdown-item" href="#">Set news down</a></li>
+            <li><a class="dropdown-item" href="#footer">Set news down</a></li>
             <li><a class="dropdown-item" href="#">Something else</a></li>
           </ul>
         </li>
