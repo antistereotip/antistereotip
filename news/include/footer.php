@@ -51,7 +51,7 @@
 	</div>
 	<div class="mb-3">
 		<label for="exampleFormControlTextarea1" class="form-label">Message</label>
-		<textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+		<textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Write message"></textarea>
 	</div>
 		<div class="form-check">
 		<input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1" checked>
@@ -64,6 +64,10 @@
 		<label class="form-check-label" for="flexRadioDefault2">
 			Second Choice
 		</label>
+	</div><br />
+	<div class="form-check form-switch">
+		<input class="form-check-input" type="checkbox" id="flexSwitchCheckChecked" checked>
+		<label class="form-check-label" for="flexSwitchCheckChecked">Translate message</label>
 	</div><br />
 	<button type="submit" class="btn btn-danger mb-3">Submit</button>
    </div>
