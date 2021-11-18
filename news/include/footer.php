@@ -65,7 +65,7 @@
 			Second Choice
 		</label>
 	</div><br />
-	<button type="submit" class="btn btn-primary mb-3">Submit</button>
+	<button type="submit" class="btn btn-danger mb-3">Submit</button>
    </div>
    
    <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
