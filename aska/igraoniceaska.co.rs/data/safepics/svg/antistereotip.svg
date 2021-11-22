@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg3111"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="antistereotip.svg">
+  <defs
+     id="defs3113" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.54046"
+     inkscape:cx="35.623098"
+     inkscape:cy="15.730737"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1024"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3116">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <text
+       xml:space="preserve"
+       style="font-size:12.0237093px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-21.563732"
+       y="25.896145"
+       id="text2995"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.7282422,-0.47641952,0.8330025,0.82821533,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan2997"
+         x="-21.563732"
+         y="25.896145"
+         style="font-size:12.0237093px;font-style:italic;-inkscape-font-specification:Sans Bold Italic">АНТИ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.35587406px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="18.022768"
+       y="-19.126223"
+       id="text2999"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.54714079,0.75489469,-0.97911333,0.47679236,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="18.022768"
+         y="-19.126223">STEREOTIP</tspan></text>
+    <rect
+       style="fill:#000000"
+       id="rect3022"
+       width="32.301579"
+       height="32.127399"
+       x="-15.131979"
+       y="33.091106"
+       transform="matrix(0.84753652,-0.53073707,0.58796609,0.80888558,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.98648262px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-58.535061"
+       y="43.318169"
+       id="text3024"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.31180593,-0.8608297,1.0756821,0.23739402,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3026"
+         x="-58.535061"
+         y="43.318169"
+         style="font-size:16.98648262px;font-weight:bold;-inkscape-font-specification:Sans Bold">.<tspan
+   style="font-size:16.98648262px"
+   id="tspan3133">NET</tspan></tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.39719459px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7.507885,14.574043 12.749085,-8.3986973 -12.749085,0 z"
+       id="path3093"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.56834996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 43.314856,6.1212841 58.047078,26.132598 58.014272,6.1348132 z"
+       id="path3095"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.65732586px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 8.2770495,44.987427 8.9669675,11.698312 -8.9669675,0 z"
+       id="path3097"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.76010275px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41.376374,56.083859 58.059716,45.400617 58.005824,56.231144 z"
+       id="path3099"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -13,15 +13,27 @@
   <!-- Prvo pod zaglavlje -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
     <img src="./media/aska.png" width="150" alt="Anonymous" />
-    <h1>Aska Status - English</h1>
+    <h1>Aska Playgrounds</h1>
+    <h5><blockquote><span style="color: orangered;">Making playgrounds as its best</span></blockquote></h5>
+    Instagram: <a href="https://www.instagram.com/igraoniceaska/"><img src="./media/Instagram-Icon.png" width="42" height="42"></a>
 	<h2>Phone: +381 64 3939674</h2>
    </div>
+   
+   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
+  
+    <h6 class="border-bottom pb-2 mb-0">Lasertag, Trampoline, Lasermaze</h6>
+	<div class="wide-pictures">
+	<img src="./media/aska-oprema-za-igraonice-11.png" alt="aska-oprema-za-igraonice-3" />
+    <img src="./media/aska-oprema-za-igraonice-12.png" alt="aska-oprema-za-igraonice-4" />
+	<img src="./media/aska-oprema-za-igraonice-13.png" alt="aska-oprema-za-igraonice-5" />
+	</div>
+  </div>
 
   
   <!-- Vesti iz data niza -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
   
-    <h6 class="border-bottom pb-2 mb-0">Top News</h6>
+    <h6 class="border-bottom pb-2 mb-0">Status bar</h6>
 	
 	<?php include './data/index-data.php'; ?>
 	<?php foreach ($content as $row) { ?>
@@ -36,15 +48,6 @@
     
   </div>
   
-  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
-  
-    <h6 class="border-bottom pb-2 mb-0">Lasertag, Trampoline, Lasermaze</h6>
-	<div class="wide-pictures">
-	<img src="./media/aska-oprema-za-igraonice-11.png" alt="aska-oprema-za-igraonice-3" />
-    <img src="./media/aska-oprema-za-igraonice-12.png" alt="aska-oprema-za-igraonice-4" />
-	<img src="./media/aska-oprema-za-igraonice-13.png" alt="aska-oprema-za-igraonice-5" />
-	</div>
-  </div>
   
   
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">

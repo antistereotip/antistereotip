@@ -1,19 +1,21 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
-    <meta name="generator" content="Hugo 0.88.1">
+    <meta name="description" content="Aska play areas and equipment are brought to you with love and imagination. 
+    Special attention has been devoted to quality and safety. All products and materials are certificated to the highest standards.">
+    <meta name="author" content="Milutin Gavrilovic">
+    <meta name="generator" content="hightech 007">
     <title>Aska</title>
 	<meta property="og:title" content="Aska &amp; Playground" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="./media/aska.png" />
-    <meta property="og:url" content="https://antistereotip.net/aska/" />
-    <meta property="og:description" content="Aska, making playground as its best" />
+    <meta property="og:url" content="https://indoor-playgrounds.biz/" />
+    <meta property="og:description" content="Aska play areas and equipment are brought to you with love and imagination. Special 
+    attention has been devoted to quality and safety. All products and materials are certificated to the highest standards." />
 	<link rel="icon" type="image/png" href="./media/aska.png" />
-    <link rel="canonical" href="https://antistereotip.net/aska/">
+    <link rel="canonical" href="https://indoor-playgrounds.biz/">
 
-    
+    <meta name="robots" content="noindex" />
     <!-- Bootstrap core CSS -->
 	<link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
 

@@ -1,5 +1,36 @@
 <?php
-$content = array( 
+$content = array(
+    array(
+	"user" => "aska",
+	"avatar" => "media/aska.png",
+	"date" => "22 Nov. 2021 at 20:00",
+	"link" => "#",
+	"post" => "Aska play areas and equipment are brought to you with love and imagination. Special attention has been devoted to quality 
+	and safety. All products and materials are certificated to the highest standards.We have delivered a huge number of successful projects. 
+	That include indoor playgrounds of all sizes, birthday rooms, trampoline parks, and outdoor play areas. Our experience in accommodating 
+	all kinds of requirements has placed us as leaders in the industry. We continue to be innovators with content, form and design. 
+	3D elements, painting and decor create an exciting, colorful world which children can enter. Integrated play equipment in the form of 
+	animals, ships, vehicles and more, create a stimulating environment for play. Our trampoline parks attract users of all ages, for 
+	sport and fitness as well as recreation. Aska products are long lasting- our playgrounds include some of the oldest in the area, 
+	which remain competitive and continue to provide an attractive and safe play experience."
+	),
+	array(
+	"user" => "aska",
+	"avatar" => "media/aska.png",
+	"date" => "21 Nov. 2021 at 20:00",
+	"link" => "#",
+	"post" => "List of all equipment that we produce you can find HERE. Why Aska playgrounds:<br />
+    1. 15 years experience in the business<br />
+    2. All our products have one year warranty<br />
+    3. Linens have factory warranty (5years) We use the highest quality materials<br />
+    4. Slides are attested<br />
+    5. String nets are also certified<br />
+    6. Professionalism<br />
+    7. Maximum use of space<br />
+    8. Popular prices<br />
+    9. We use the highest quality materials<br />
+    10. All this and much more …"
+	),
 	array(
 	"user" => "aska",
 	"avatar" => "media/aska.png",

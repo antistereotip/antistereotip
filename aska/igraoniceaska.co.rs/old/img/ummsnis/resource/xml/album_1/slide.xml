@@ -1,0 +1,25 @@
+<playData>
+<!-- images data area start here ... -->
+<viewItem type="image" startTime="4" duration="4">
+  <dataInfo size="0" url="resource/res/images/album_1/image_0.jpg" thumbUrl="resource/res/images/album_1/thumb_0.jpg" />
+</viewItem>
+<viewItem type="image" startTime="8" duration="4">
+  <dataInfo size="0" url="resource/res/images/album_1/image_1.jpg" thumbUrl="resource/res/images/album_1/thumb_1.jpg" />
+</viewItem>
+<viewItem type="image" startTime="12" duration="4">
+  <dataInfo size="0" url="resource/res/images/album_1/image_2.jpg" thumbUrl="resource/res/images/album_1/thumb_2.jpg" />
+</viewItem>
+<viewItem type="image" startTime="16" duration="4">
+  <dataInfo size="0" url="resource/res/images/album_1/image_3.jpg" thumbUrl="resource/res/images/album_1/thumb_3.jpg" />
+</viewItem>
+<viewItem type="image" startTime="20" duration="4">
+  <dataInfo size="0" url="resource/res/images/album_1/image_4.jpg" thumbUrl="resource/res/images/album_1/thumb_4.jpg" />
+</viewItem>
+<viewItem type="image" startTime="24" duration="4">
+  <dataInfo size="0" url="resource/res/images/album_1/image_5.jpg" thumbUrl="resource/res/images/album_1/thumb_5.jpg" />
+</viewItem>
+<viewItem type="image" startTime="28" duration="4">
+  <dataInfo size="0" url="resource/res/images/album_1/image_6.jpg" thumbUrl="resource/res/images/album_1/thumb_6.jpg" />
+</viewItem>
+<!-- images data area end -->
+</playData>
