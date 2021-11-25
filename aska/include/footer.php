@@ -35,18 +35,20 @@
 	<h2>Contact Us</h2><br />
 	<p>PIB: 109792022</p>
 	<p>Mail:<br />
-	aska.szr@gmail.com<br />
-	igraoniceaska@gmail.com</p>
+	aska [dot] szr [at] gmail [dot] com<br />
+	igraoniceaska [at] gmail [dot] com</p>
 	<p>Phone: +381643939674</p>
     <p>Links:<br />
-        <a href="https://opremazaigraonice.rs">www.opremazaigraonice.rs</a><br />
-        <a href="https://igraoniceaska.co.rs">www.igraoniceaska.co.rs</a><br />
-        <a href="https://opremanje-decijih-igraonica.com">www.opremanje-decijih-igraonica.com</a><br />
-        <a href="https://laser-pinkpanter-training-center.com">www.laser-pinkpanter-training-center.com</a><br />
-        <a href="https://indoor-playgrounds.biz/">www.indoor-playgrounds.biz</a><br />
-        <a href="https://www.facebook.com/OpremaZaDecijeIgraonice">www.facebook.com/OpremaZaDecijeIgraonice</a><br />
+        <a href="https://opremazaigraonice.rs" target="__blank">www.opremazaigraonice.rs</a><br />
+        <a href="https://igraoniceaska.co.rs" target="__blank">www.igraoniceaska.co.rs</a><br />
+        <a href="https://opremanje-decijih-igraonica.com" target="__blank">www.opremanje-decijih-igraonica.com</a><br />
+        <a href="https://laser-pinkpanter-training-center.com" target="__blank">www.laser-pinkpanter-training-center.com</a><br />
+        <a href="https://indoor-playgrounds.biz/" target="__blank">www.indoor-playgrounds.biz</a><br />
+        <a href="https://indoor-playgrounds.biz/rssreader.php" target="__blank">RSS News</a><br />
+        <a href="https://www.facebook.com/OpremaZaDecijeIgraonice" target="__blank">Facebook</a><br />
+        <a href="https://opremazaigraonice.rs/video.html" target="__blank">Video materials</a><br />
     </p>
-    <p>Follow us on instagram: <a href="https://www.instagram.com/igraoniceaska/"><img src="./media/Instagram-Icon.png" width="64" height="64"></a></p>
+    <p>Follow us on instagram: <a href="https://www.instagram.com/igraoniceaska/" target="__blank"><img src="./media/Instagram-Icon.png" width="64" height="64"></a></p>
 
 
 	
@@ -63,7 +65,7 @@
     <span style="color: lightgreen; font-size:1.2em;">Fairytale design</span>
     <span style="color:red; font-size:1.1em">Safe and certified constructions</span>
     Trampoline parks
-    <span style="color: green;">Slides</span>, 
+    <span style="color: green;">Slides</span>
     <span style="color:#FF7F50; font-size:1.3em">Awnings</span>
     <span style="color:orangered; font-size:1.1em">The highest quality material</span> 
     <span style="color:#17f118; font-size:1.1em">Security certificates</span>
@@ -91,7 +93,7 @@
    
    <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
     <footer id="footer" >
-     <p>Powered by @hightech & Protected by @uskrs</p>
+     <p>Powered by <a href="https://antistereotip.net">@hightech</a> & Protected by <a href="https://usk.rs">@uskrs</a> &#8620; Read fresh <a href="./rssreader.php">RSS</a></p>
     </footer>
    </div>
    

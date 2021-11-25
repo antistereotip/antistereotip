@@ -1,12 +1,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <meta name="keywords" content="indoor playgrounds, playgrounds, indoor, slides, laser tag, laser maze, painting walls, balls pool, cages">
     <meta name="description" content="Aska play areas and equipment are brought to you with love and imagination. 
     Special attention has been devoted to quality and safety. All products and materials are certificated to the highest standards.">
     <meta name="author" content="Milutin Gavrilovic">
     <meta name="generator" content="hightech 007">
     <title>Aska</title>
-	<meta property="og:title" content="Aska &amp; Playground" />
+    <meta name="google-site-verification" content="sao-GkpCGrokKc2HF-jvsfiKbbD_3U2QEkOIpaFGnjc" />
+	<meta property="og:title" content="Aska &amp; Playgrounds" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="./media/aska.png" />
     <meta property="og:url" content="https://indoor-playgrounds.biz/" />
@@ -15,9 +17,19 @@
 	<link rel="icon" type="image/png" href="./media/aska.png" />
     <link rel="canonical" href="https://indoor-playgrounds.biz/">
 
-    <meta name="robots" content="noindex" />
+    <meta name="robots" content="index, follow" />
     <!-- Bootstrap core CSS -->
 	<link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
+	    
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LH62YTQ1D5"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-LH62YTQ1D5');
+    </script>
+
 
     <style>
 	  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;611&family=Raleway:wght@200&family=Ubuntu:wght@300&display=swap');
