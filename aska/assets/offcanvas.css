@@ -29,6 +29,10 @@ border-radius: 7px; margin-right: 1%; border: 1px solid #999;
 .wide-pictures img {width: 33%;}
 
 
+
+
+
+
 @media (max-width: 991.98px) {
   .offcanvas-collapse {
     position: fixed;

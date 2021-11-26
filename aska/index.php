@@ -11,21 +11,23 @@
 <main class="container">
 
   <!-- Prvo pod zaglavlje -->
-  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
+  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
     <img src="./media/aska.png" width="150" alt="Anonymous" />
     <h1>Aska Playgrounds</h1>
     <h5><blockquote><span style="color: orangered;">Making playgrounds as its best</span></blockquote></h5>
-    Instagram: <a href="https://www.instagram.com/igraoniceaska/" target="__blank"><img src="./media/Instagram-Icon.png" width="42" height="42"></a>
 	<h2>Phone: +381 64 3939674</h2>
    </div>
    
-   
-   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
-    <h4 class="border-bottom pb-2 mb-0">A New Kind Of Entertainment</h4>
+   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
+    <a href="https://www.instagram.com/igraoniceaska/" target="__blank"><img src="./media/Instagram-Icon.png" width="42" height="42" alt="instagram"></a>
+    <a href="https://linkedin.com/in/aska-playgrounds-8b217269" target="__blank"><img src="./media/Linkedin-Icon.png" width="42" height="42" alt="Linkedin"></a>
+    <a href="https://www.facebook.com/OpremaZaDecijeIgraonice" target="__blank"><img src="./media/Facebook-Icon.png" width="42" height="42" alt="Facebook"></a>
+    
    </div>
+   
   
-   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
-  
+   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
+  <h4 class="border-bottom pb-2 mb-0">A New Kind Of Entertainment</h4>
     <h6 class="border-bottom pb-2 mb-0">Lasertag, Trampoline, Lasermaze</h6>
 	<div class="wide-pictures">
 	<img src="./media/aska-oprema-za-igraonice-11.png" alt="aska-oprema-za-igraonice-3" />
@@ -34,7 +36,7 @@
 	</div>
   </div>
   
-  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
+  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
     <h5 class="border-bottom pb-2 mb-0">Fresh World RSS News</h5>
     <p>Read the latest news from the world in the field of entertainment, technology, world events and political issues. 
     Stay informed and follow our news first hand regularly. Sincerely. Aska team.</p>
@@ -44,7 +46,7 @@
 
   
   <!-- Vesti iz data niza -->
-  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset" itemscope itemtype="https://schema.org/Offer">
+  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija" itemscope itemtype="https://schema.org/Offer">
   
     <h6 class="border-bottom pb-2 mb-0">Status bar</h6>
 	
@@ -64,7 +66,7 @@
   
   
   
-  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
+  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
     <h6 class="border-bottom pb-2 mb-0">Figures</h6>
 	<div class="pictures">
 	<img src="./media/aska-oprema-za-igraonice-9.png" alt="aska-oprema-za-igraonice-9" />
@@ -73,7 +75,7 @@
 	</div>
   </div>
   
-  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
+  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
   
     <h6 class="border-bottom pb-2 mb-0">Playground</h6>
 	<div class="pictures">
@@ -83,7 +85,7 @@
 	</div>
   </div>
   
-  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset">
+  <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
     <h6 class="border-bottom pb-2 mb-0">Cages</h6>
 	<div class="pictures">
 	<img src="./media/aska-oprema-za-igraonice-7.png" alt="aska-oprema-za-igraonice-7" />

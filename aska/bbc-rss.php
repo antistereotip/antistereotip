@@ -79,8 +79,8 @@ foreach ($rss->channel->item as $item)
  
 
 <footer id="footer" >
-     <p>Powered by <a href="https://antistereotip.net">@hightech</a> & Protected by <a href="https://usk.rs">@uskrs</a> &#8620; Read fresh <a href="./cnn-rss.php">RSS</a></p>
-</footer>
+     <p>Powered by <a href="https://antistereotip.net">@hightech</a> & Protected by <a href="https://usk.rs">@uskrs</a> &#8620;</p>
+    </footer>
 
 <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
 

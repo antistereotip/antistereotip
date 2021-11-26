@@ -49,9 +49,9 @@
         </li>
 
       </ul>
-      <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Feature loading ..." aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
+      <form class="d-flex" method="post" action="notify.php">
+        <input class="form-control me-2"  type="text" class="form-control" placeholder="e-Mail for Newsletter" name="email" autofocus>
+        <button class="btn btn-outline-success" type="submit">Enter</button>
       </form>
     </div>
   </div>
