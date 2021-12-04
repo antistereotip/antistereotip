@@ -1,0 +1,338 @@
+
+
+body {
+	color: #555;
+}
+
+
+.img-section {display: none;}
+
+
+/* HERO SECTION */
+.hero-section {
+	background-image: url('../images/rajac.jpg');
+	height: 568px;
+	background-size: cover;
+	color: #fff;
+}
+
+.hero-section .left {
+	padding-top: 100px;
+}
+
+.hero-section .right {
+	padding-top: 100px;
+}
+
+.hero-section img {
+	border: 1px solid #555;
+	margin-left: 1px;
+}
+.hero-section blockquote {
+	opacity: 0.8; 
+	padding: 10px; 
+	font-size: 1.2em; 
+	border-left: 1px solid #222;
+}
+
+
+
+/* HERO ABOUT SECTION */
+
+.hero-about-section {
+	background-image: url('../images/rajac1.jpg');
+	height: 355px;
+	background-size: cover;
+	color: #fff;
+}
+
+.hero-about-section .left {
+	margin-top: 70px;
+}
+.hero-about-section .right {
+	margin-top: 70px;
+}
+
+
+
+/* HERO SLOGAN SECTION */
+
+.hero-slogan-section {
+	background-image: url('../images/slogani.jpg');
+	height: 542px;
+	background-size: cover;
+	color: #fff;
+}
+
+.hero-slogan-section .left {
+	margin-top: 70px;
+}
+.hero-slogan-section .right {
+	margin-top: 70px;
+}
+
+
+/* HERO CILJ SECTION */
+
+.hero-cilj-section {
+	background-image: url('../images/cilj.jpg');
+	height: 616px;
+	background-size: cover;
+	color: #fff;
+}
+
+.hero-cilj-section .left {
+	margin-top: 70px;
+}
+.hero-cilj-section .right {
+	margin-top: 70px;
+}
+
+/* HERO PRIORITET SECTION */
+
+.hero-prioritet-section {
+	background-image: url('../images/prioritet.jpg');
+	height: 580px;
+	background-size: cover;
+	color: #fff;
+}
+
+.hero-prioritet-section .left {
+	margin-top: 70px;
+}
+.hero-prioritet-section .right {
+	margin-top: 70px;
+}
+
+
+
+
+/* TRACK SECTION */
+.track-section h1 {text-align: center; margin-top: 50px; margin-bottom: 40px;}
+
+
+/* TRACK ABOUT SECTION */
+.track-about-section h1 {text-align: center; margin-top: 50px; margin-bottom: 40px;}
+
+
+/* TRACK SLOGAN SECTION */
+.track-slogan-section h1 {text-align: center; margin-top: 50px; margin-bottom: 40px;}
+
+
+
+
+
+/* MODAL */
+.modal-track-section { text-align: center; margin-top: 40px; margin-bottom: 40px;}
+
+
+
+
+
+
+
+/* FRONT SECTION */
+.front-section {
+	margin-top: 70px;
+}
+
+.front-section .item {
+	height: 250px;
+}
+
+.front-section .item1 h2, .front-section .item2 h2, .front-section .item3 h2 {
+	font-size: 0.9em;
+	text-transform: uppercase;
+}
+
+.front-section h1 {
+	margin-bottom: 30px;
+	text-align: center;
+}
+
+.front-section h2 {
+	margin-top: 20px;
+}
+
+.front-section .item1, .front-section .item2, .front-section .item3 {
+	padding: 20px; 
+}
+
+.front-section .item1 {
+	background-color: #e5d5c8;
+}
+.front-section .item1:hover {
+	opacity: 0.8;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+.front-section .item2 {
+	background-color: #82b57c;
+}
+.front-section .item2:hover {
+	opacity: 0.8;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+.front-section .item3 {
+	background-color: #deb772;
+}
+.front-section .item3:hover {
+	opacity: 0.8;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+.front-section button {
+	margin-bottom:20px;
+	margin-top: 20px;
+}
+
+.front-section .big {font-size: 3em; margin-top: 10px; margin-bottom: 20px;}
+
+
+
+
+
+/* FRONT ABOUT SECTION */
+.front-about-section {
+	margin-top: 70px;
+}
+.front-about-section .item1 {background-color: #e5d5c8;padding: 20px;}
+.front-about-section .item1:hover {opacity: 0.8;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+.front-about-section .item2 {
+	background-color: #82b57c;
+	padding: 20px;
+}
+.front-about-section .item2:hover {
+	opacity: 0.8;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+
+.front-about-section h2 {height: 50px;}
+.front-about-section .item-height {height: 200px;}
+
+.front-about-section .big {font-size: 3em; margin-top: 10px; margin-bottom: 20px;}
+
+
+
+
+
+
+
+
+/* FRONT SLOGAN SECTION */
+.front-slogan-section {
+	margin-top: 70px;
+	
+}
+.front-slogan-section .item1 {background-color: #e5d5c8;padding: 20px;}
+.front-slogan-section .item1:hover {
+	opacity: 0.8;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+.front-slogan-section .item2 {background-color: #82b57c;padding: 20px;}
+.front-slogan-section .item2:hover {
+	opacity: 0.8;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+.front-slogan-section h2 {height: 50px;padding-top: 20px;}
+.front-slogan-section .item-height {height: 150px;}
+
+.front-slogan-section .big {font-size: 3em; margin-top: 10px; margin-bottom: 20px;margin-top: 20px;}
+
+.front-slogan-section button {margin-bottom: 20px;}
+
+
+
+/* FRONT CILJ SECTION */
+.front-cilj-section {
+	margin-top: 70px;
+}
+.front-cilj-section p {
+	padding: 20px;
+}
+.front-cilj-section .item1 {background-color: #e5d5c8;padding: 20px;}
+.front-cilj-section .item1:hover {opacity: 0.8;
+}
+
+.front-cilj-section .item2 {
+	background-color: #e5f2c8;
+	padding: 20px;
+}
+.front-cilj-section .item2:hover {
+	opacity: 0.8;
+}
+
+
+.front-cilj-section h2 {height: 50px;}
+.front-cilj-section .item-height {height: 200px;}
+
+.front-cilj-section .big {font-size: 3em; margin-top: 10px; margin-bottom: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+/* CONTENT SECTION */
+
+.content-section {margin-top: 70px; }
+.content-section h3 {margin-bottom: 30px; }
+.content-section p {font-size: 1.2em;}
+
+.content-section img {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 7px;
+}
+
+
+
+
+/* FOOTER SECTION */
+.footer {
+	margin-top: 100px;
+	background-color: #f8c87e; 
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border-top: 1px solid #999;
+}
+
+.footer .pecat {
+	border: 1px solid #999;
+}
+
+.footer .konfekcija {
+	border: 1px solid #999;
+}
+
+
+
+/* CSS3 MEDIA Q */
+@media screen and (max-width: 680px) {
+  .hero-section {display: none;}
+  .hero-about-section {display: none;}
+  .hero-slogan-section {display: none;}
+  .hero-cilj-section {display: none;}
+  .hero-cilj-section {display: none;}
+  .hero-prioritet-section {display: none;}
+  .img-section {display: block; text-align: center; margin-top: 20px;}
+  .img-section img {border: 1px solid #555;}
+}
