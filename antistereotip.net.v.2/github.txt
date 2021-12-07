@@ -1,0 +1,33 @@
+#hightech - It's not a bug, it's a feature
+
+mkdir github
+cd github
+git clone https://github.com/user/repo
+cd repo
+nano file.extension (Edit or update file)
+
+git add file.extension
+git commit -m "Changed or new file"
+git commit
+git push
+
+(When open prompt enter github user and pass)
+After this change will be uploaded to repo
+If someone change some code on github, then use:
+
+git pull
+
+If we change some folder and dont want to duplicate it on repo, before push enter this command:
+
+git add --all
+
+than 
+
+git push
+
+If you want to delete folder and files:
+git rm -rf folder-into-repositorium
+git commit -m "Delete folder-into-repositorium"
+git commit
+git push
+user: user
