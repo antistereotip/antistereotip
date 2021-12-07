@@ -48,7 +48,7 @@ body {
 .three-section .item3 {background: #deb772; padding: 20px;}
 .three-section .item3:hover { margin-top: -10px; margin-bottom: 10px;opacity: 0.8;}
 .three-section h2 {margin-top: 30px; margin-bottom: 40px; text-align: center;}
-.three-section p {margin-top: 30px; margin-bottom: 40px; text-align: center; font-size: 1.2em;}
+.three-section p {margin-top: 30px; margin-bottom: 40px;  font-size: 1.0em;}
 
 
 
