@@ -1,0 +1,237 @@
+body {
+	color: #000;
+}
+.form-control {
+    border-radius: 0;	
+}
+.btn { 
+    border-radius: 0;
+}
+.mobile {display: none;}
+
+
+/* HERO POCETNA */
+.hero-pocetna {background-image: url('../images/back.jpg');height: 615px;background-size: cover;color: #333;}
+.hero-pocetna .levo {padding-top: 100px;}
+.hero-pocetna .desno {padding-top: 100px;}
+.hero-pocetna .desno img {border: 1px solid #555;margin-left: 1px;}
+.hero-pocetna .desno blockquote {opacity: 0.7;padding: 10px;font-size: 1.2em;border-left: 1px solid #222;font-style: italic;}
+
+/* TRI POCETNA */
+.tri-pocetna {margin-top: 60px; margin-bottom: 60px;}
+.tri-pocetna h1 {padding-bottom: 50px; text-align: center;}
+.tri-pocetna .prvi {padding: 20px; background: #83b880; opacity: 0.8;}
+.tri-pocetna .prvi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-pocetna .drugi {padding: 20px; background: #ee8065; opacity: 0.8;}
+.tri-pocetna .drugi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-pocetna .treci {padding: 20px; background: #f8c782; opacity: 0.8;}
+.tri-pocetna .treci:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-pocetna .prvi .prvo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-pocetna .prvi .prvo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.tri-pocetna .drugi .drugo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-pocetna .drugi .drugo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.tri-pocetna .treci .trece-dugme {background: #777;  border: 1px solid #7; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-pocetna .treci .trece-dugme:hover {background: #111;  border: 1px solid #111; color: #fff; transition: 1;}
+.tri-pocetna .prvi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+.tri-pocetna .drugi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+.tri-pocetna .treci .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+
+/* TRAKA */
+.traka {color: #75a774; background: #34454d; padding: 7px; margin-bottom: 50px;}
+
+
+
+
+/* PUBLIKACIJE POCETNA */
+.publikacije-pocetna {margin-top: 60px; margin-bottom: 60px;}
+.publikacije-pocetna h1 {padding-bottom: 50px; text-align: center;}
+.publikacije-pocetna .prvi {border-left: 1px solid #999;border-top: 1px solid #999; border-bottom: 1px solid #999; padding: 20px; opacity: 0.7;}
+.publikacije-pocetna .drugi {border-left: 1px solid #999;border-top: 1px solid #999; border-bottom: 1px solid #999; padding: 20px; opacity: 0.7;}
+.publikacije-pocetna .treci {border-left: 1px solid #999;border-top: 1px solid #999; border-bottom: 1px solid #999; border-right: 1px solid #999; padding: 20px; opacity: 0.7;}
+.publikacije-pocetna .prvi:hover {opacity: 1;}
+.publikacije-pocetna .drugi:hover {opacity: 1;}
+.publikacije-pocetna .treci:hover {opacity: 1;}
+
+/* CILJEVI POCETNA */
+.ciljevi-pocetna h1 {padding-bottom: 50px; text-align: center;}
+.ciljevi-pocetna .okvir { padding: 30px; border: 1px solid #999;}
+
+/* PALETA SEKCIJA */
+.paleta-sekcija {margin-top: 50px; margin-bottom: 40px;}
+.paleta-sekcija h3 { margin-bottom: 40px;}
+
+
+
+
+
+
+
+
+/* HERO O NAMA */
+.hero-o-nama {background-image: url('../images/back-onama.jpg');height: 536px;background-size: cover;color: #333;}
+.hero-o-nama .levo {padding-top: 100px;}
+.hero-o-nama .desno {padding-top: 100px;}
+
+/* TRI O NAMA */
+.tri-o-nama {margin-top: 60px; margin-bottom: 60px;}
+.tri-o-nama h1 {padding-bottom: 50px; text-align: center;}
+.tri-o-nama .prvi {padding: 20px; background: #b5c7df; opacity: 0.8;}
+.tri-o-nama .prvi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-o-nama .drugi {padding: 20px; background: #f0f1f3; opacity: 0.8;}
+.tri-o-nama .drugi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-o-nama .treci {padding: 20px; background: #9dac99; opacity: 0.8;}
+.tri-o-nama .treci:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-o-nama .prvi .prvo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-o-nama .prvi .prvo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.tri-o-nama .drugi .drugo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-o-nama .drugi .drugo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.tri-o-nama .treci .trece-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-o-nama .treci .trece-dugme:hover {background: #111;  border: 1px solid #111; color: #fff; transition: 1;}
+.tri-o-nama .prvi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+.tri-o-nama .drugi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+.tri-o-nama .treci .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+
+/* BINARNA SEKCIJA O NAMA */
+.binarna-sekcija h1 {margin-bottom: 50px; text-align: center;}
+.binarna-sekcija .okvir {border: 1px solid #999; padding: 30px;}
+
+
+
+
+
+
+/* HERO AKTIVNOSTI */
+.hero-aktivnosti {background-image: url('../images/back-aktivnosti.jpg');height: 656px;background-size: cover;color: #fff;}
+.hero-aktivnosti .levo {padding-top: 100px;}
+.hero-aktivnosti .desno {padding-top: 100px;}
+
+/* TRI AKTIVNOSTI */
+.tri-aktivnosti {margin-top: 60px; margin-bottom: 60px;}
+.tri-aktivnosti h1 {padding-bottom: 50px; text-align: center;}
+.tri-aktivnosti .prvi {padding: 20px; background: #b6aeb1; opacity: 0.8;}
+.tri-aktivnosti .prvi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-aktivnosti .drugi {padding: 20px; background: #df980a; opacity: 0.8;}
+.tri-aktivnosti .drugi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-aktivnosti .treci {padding: 20px; background: #c8c6c9; opacity: 0.8;}
+.tri-aktivnosti .treci:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.tri-aktivnosti .prvi .prvo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-aktivnosti .prvi .prvo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.tri-aktivnosti .drugi .drugo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-aktivnosti .drugi .drugo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.tri-aktivnosti .treci .trece-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.tri-aktivnosti .treci .trece-dugme:hover {background: #111;  border: 1px solid #111; color: #fff; transition: 1;}
+.tri-aktivnosti .prvi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+.tri-aktivnosti .drugi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+.tri-aktivnosti .treci .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+
+/* AKTIVNOSTI SKUPSTINE */
+.aktivnosti-skupstine h2 {margin-bottom: 50px; text-align: center;}
+.aktivnosti-skupstine .okvir {border: 1px solid #999; padding: 30px;}
+
+
+
+
+
+
+
+/* HERO VIZIJA */
+.hero-vizija {background-image: url('../images/iluzija.jpg');height: 768px;background-size: cover;color: #fff;}
+.hero-vizija .levo {padding-top: 100px;}
+.hero-vizija .desno {padding-top: 100px;}
+
+/* DVA VIZIJA */
+.dva-vizija {margin-top: 60px; margin-bottom: 60px;}
+.dva-vizija h1 {padding-bottom: 50px; text-align: center;}
+.dva-vizija .prvi {padding: 20px; background: #b6aeb1; opacity: 0.8;}
+.dva-vizija .prvi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.dva-vizija .drugi {padding: 20px; background: #df980a; opacity: 0.8;}
+.dva-vizija .drugi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.dva-vizija .prvi .prvo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.dva-vizija .prvi .prvo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.dva-vizija .drugi .drugo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.dva-vizija .drugi .drugo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.dva-vizija .prvi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+.dva-vizija .drugi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+
+/* MIKI MAUS VIZIJA */
+.miki-maus h2 {margin-bottom: 50px; text-align: center;}
+.miki-maus .okvir {padding: 30px; border: 1px solid #999;}
+
+
+
+
+
+
+
+/* HERO MASTER */
+.hero-master {background-image: url('../images/success.jpg');height: 960px; background-size: cover;color: #fff;}
+.hero-master .levo {padding-top: 100px;}
+.hero-master .desno {padding-top: 100px;}
+
+/* DVA MASTER */
+.dva-master {margin-top: 60px; margin-bottom: 60px;}
+.dva-master h1 {padding-bottom: 50px; text-align: center;}
+.dva-master .prvi {padding: 20px; background: #b6aeb1; opacity: 0.8;}
+.dva-master .prvi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.dva-master .drugi {padding: 20px; background: #df980a; opacity: 0.8;}
+.dva-master .drugi:hover {margin-top: -10px; margin-bottom: 10px; opacity: 1;}
+.dva-master .prvi .prvo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.dva-master .prvi .prvo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.dva-master .drugi .drugo-dugme {background: #777;  border: 1px solid #777; color: #fff;margin-top: 30px; margin-bottom: 10px;}
+.dva-master .drugi .drugo-dugme:hover {background: #111;  border: 1px solid #111; color: #fff;}
+.dva-master .prvi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+.dva-master .drugi .ikonica {font-size: 2em; margin-top: 15px; margin-bottom: 15px; color: #555;}
+
+/* MASTER MOTO */
+.master-moto h2 {margin-bottom: 50px; text-align: center;}
+.master-moto .okvir {padding: 30px; border: 1px solid #999;}
+.master-moto .okvir p {font-size: 1.2em;}
+
+/* MASTER MEME */
+.master-meme {margin-bottom: 50px; margin-top: 50px;}
+.master-meme .okvir {padding: 30px; border: 1px solid #999;}
+.master-meme .okvir img {padding: 10px; border: 1px solid #999; margin-left: 10px;}
+
+
+
+
+
+/* RSS */
+.rss .okvir {margin-top: 50px; border: 1px solid #999; padding: 50px;}
+.rss img {margin-top: 30px; text-align: center;}
+
+
+.modal-kontakt {margin-top: 60px; margin-bottom: 60px;}
+
+.skills {margin-top: 60px; margin-bottom: 60px;}
+.skills h2 {text-align: center; margin-bottom: 30px;}
+.skills .okvir {border: 1px solid #999; padding: 30px;}
+.skills .progress {margin-top: 10px; margin-bottom: 10px;}
+
+
+
+
+/* FOOTER SECTION */
+.footer {margin-top: 100px;background-color: #f8c87e;padding-top: 30px;padding-bottom: 30px;border-top: 1px solid #999;}
+.footer .pecat {border: 1px solid #999;}
+.footer .konfekcija {border: 1px solid #999;}
+
+
+
+
+
+/* CSS3 MEDIA Q */
+@media screen and (max-width: 680px) {
+  .hero-pocetna {display: none;}
+  .hero-o-nama {display: none;}
+  .hero-aktivnosti {display: none;}
+  .hero-vizija {display: none;}
+  .hero-master {display: none;}
+  .mobile {
+	display: block;
+	padding: 20px;
+	text-align: center;
+  }
+  
+}
+
