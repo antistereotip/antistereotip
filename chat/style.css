@@ -1,25 +1,14 @@
-* {
-    margin: 0;
-    padding: 0;
-  }
+* {margin: 0;padding: 0;}
    
-  body {
-    margin: 20px auto;
-    font-family: "Lato";
-    font-weight: 300;
-  }
+body {margin: 20px auto;font-family: "Lato";font-weight: 300;}
    
-  form {
-    padding: 15px 25px;
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-  }
+form {padding: 15px 25px;display: flex;gap: 10px;justify-content: center;}
    
-  form label {
+form label {
+    color: yellow;
     font-size: 1.5rem;
     font-weight: bold;
-  }
+}
    
   input {
     font-family: "Lato";
@@ -50,6 +39,7 @@
   }
    
 #loginform p {
+    color: #17f118;
     padding: 15px 25px;
     font-size: 1.4rem;
     font-weight: bold;
@@ -101,9 +91,9 @@
     color: #17f118;
 }
    
-  #menu p.welcome {
-    flex: 1;
-  }
+#menu p.welcome {
+   flex: 1;
+}
    
 a#exit {
     color: white;
@@ -112,31 +102,31 @@ a#exit {
     border-radius: 0px;
     font-weight: bold;
 }
-  .msgln {
-    margin: 0 0 5px 0;
-  }
+.msgln {
+   margin: 0 0 5px 0;
+}
    
-  .msgln span.left-info {
-    color: orangered;
-  }
+.msgln span.left-info {
+   color: orangered;
+}
    
-  .msgln span.chat-time {
-    color: #666;
-    font-size: 60%;
-    vertical-align: super;
-	padding: 2px 4px;
-  }
+.msgln span.chat-time {
+   color: #666;
+   font-size: 60%;
+   vertical-align: super;
+   padding: 2px 4px;
+}
    
-  .msgln b.user-name, .msgln b.user-name-left {
-    font-weight: bold;
-    background: #546e7a;
-    color: white;
-    padding: 2px 4px;
-    font-size: 90%;
-    border-radius: 0px;
-    margin: 0 5px 0 0;
-  }
+.msgln b.user-name, .msgln b.user-name-left {
+   font-weight: bold;
+   background: #546e7a;
+   color: white;
+   padding: 2px 4px;
+   font-size: 90%;
+   border-radius: 0px;
+   margin: 0 5px 0 0;
+}
    
-  .msgln b.user-name-left {
-    background: orangered;
-  }
+.msgln b.user-name-left {
+   background: orangered;
+}
