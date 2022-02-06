@@ -43,6 +43,8 @@ CREATE TABLE `member` (
 INSERT INTO `member` (`mem_id`, `firstname`, `lastname`, `username`, `password`) VALUES
 (1, 'Administrator', '', 'admin', 'admin');
 
+-- Dodati jos dva korisnika --
+
 --
 -- Indexes for dumped tables
 --
