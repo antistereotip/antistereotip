@@ -30,7 +30,7 @@ include './include/sub-nav.php';
     <img src="./media/aska.png" width="150" alt="Anonymous" />
     <h1 id="firma"></h1>
     <h5><blockquote><span style="color: orangered;" id="moto"></span></blockquote></h5>
-	<h6><img src="./media/phone.png" width="32"> +381643939674</h6>
+	<h6><img src="./media/phone.png" width="32"><a href="tel:+381643939674">+381643939674</a></h6>
    </div>
    
     
@@ -83,8 +83,8 @@ include './include/sub-nav.php';
    
    <!-- Aktuelno-->
    <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
-    <h4 class="border-bottom pb-2 mb-0">AKTUELNO !!!</h4>
-    <h6 class="border-bottom pb-2 mb-0">Lasertag, Trampoline, Lasermaze</h6>
+    <h3 class="border-bottom pb-2 mb-0">AKTUELNO !!!</h3>
+    <h4 class="border-bottom pb-2 mb-0">Lasertag, Trampoline, Lasermaze</h4>
 	<div class="wide-pictures">
 	<img src="./media/aska-oprema-za-igraonice-11.png" alt="aska-oprema-za-igraonice-3" />
     <img src="./media/aska-oprema-za-igraonice-12.png" alt="aska-oprema-za-igraonice-4" />
@@ -95,6 +95,7 @@ include './include/sub-nav.php';
   
    <!-- Drustvene mreze-->
    <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
+    <h3 class="border-bottom pb-2 mb-0">Izrada Igraonica. Poveži se sa nama</h3>   
     <a href="https://www.instagram.com/igraoniceaska/" target="__blank"><img src="./media/Instagram-Icon.png" width="42" height="42" alt="instagram"></a>
     <a href="https://linkedin.com/in/aska-playgrounds-8b217269" target="__blank"><img src="./media/Linkedin-Icon.png" width="42" height="42" alt="Linkedin"></a>
     <a href="https://www.facebook.com/OpremaZaDecijeIgraonice" target="__blank"><img src="./media/Facebook-Icon.png" width="42" height="42" alt="Facebook"></a>
@@ -103,45 +104,69 @@ include './include/sub-nav.php';
    
   <!-- O nama -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija" itemscope itemtype="https://schema.org/Offer">
-    <h3 class="border-bottom pb-2 mb-0">O nama</h3>
+    <h3 class="border-bottom pb-2 mb-0">Zašto Oprema za Igraonice ASKA ?</h3>
 	<div class="d-flex text-muted pt-3">
-	  <img itemscope itemprop="image" src="media/aska.png" width="32" height="32" class="avatar"  alt="aska"/>
-	  <p class="pb-3 mb-0 small lh-sm border-bottom">
-	  Zaplovite u beskarajan svet mašte! Oprema za igraonice ASKA Vama na usluzi! Recite nam kakvu igraonicu želite, a mi ćemo Vaše zamisli sprovesti u delo! Bilo koja vrsta tematike da je u pitanju odgovaramo na sve 
-	  izazove! Svet iz bajke, avanture parkovi, laser arene ili nesto sasvim drugačije, na Vama je da odaberete! ASKA radi isključivo sa ATESTIRANIM i proverenim materijala koji podležu svim zahtevima u pogledu 
-	  bezbednosti i izdržljivosti. Ne koristimo jeftine materijale, već striktno kvalitetne i sertifikovane. Na opremu naše izrade dajemo garanciju godinu dana uz pomenuti sertifikat. Pored igraonica naše usluge 
-	  smo pružali i u mnogim tržnim centrima, sportskim terenima, parkovima, predškolskim ustanovama, školama, fizikalnim ordinacijama…
-	  </p>
+	  <img itemscope itemprop="image" src="media/aska.png" width="42" height="42" class="avatar"  alt="aska"/>
+	  <p class="pb-3 mb-0 small lh-sm border-bottom">Dobrodošli na naš sajt. Zaplovite sa nama u beskarajan svet mašte! Oprema za igraonice ASKA Vama na usluzi! 
+	  Recite nam kakvu igraonicu želite, a mi ćemo Vaše zamisli sprovesti u delo! Bilo koja vrsta tematike da je u pitanju odgovaramo na sve izazove! Svet iz bajke, avanture parkovi, 
+	  laser arene ili nesto sasvim drugačije, na Vama je da odaberete! ASKA radi isključivo sa ATESTIRANIM i proverenim materijala koji podležu svim zahtevima u pogledu bezbednosti i 
+	  izdržljivosti. Ne koristimo jeftine materijale, već striktno kvalitetne i sertifikovane. Na opremu naše izrade dajemo garanciju godinu dana uz pomenuti sertifikat. Pored igraonica 
+	  naše usluge smo pružali i u mnogim tržnim centrima, sportskim terenima, parkovima, predškolskim ustanovama, školama, fizikalnim ordinacijama … Višedecenijsko iskustvo u oblasti 
+	  izrade igraonica i servisu i ugradnji opreme. Lista naših referenci (Ušće tržni centar, Delta city, Zemun Park, Aviv Park, Boska-Banjaluka, Beogradjanka-Beograd, Pemo Centar-Dubrovnik...) 
+	  spada u sam vrh zabave.
 	</div>		
   </div>
   
   
   <!-- Slike -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
-    <h6 class="border-bottom pb-2 mb-0">Jumping arene, Lasermaze, Trampoline</h6>
+    <h4 class="border-bottom pb-2 mb-0">Jumping arene, Lasermaze, Trampoline</h4>
 	<div class="pictures">
-	<img src="./media/3.png" alt="aska-oprema-za-igraonice-9" height="300"/>
-    <img src="./media/4.png" alt="aska-oprema-za-igraonice-4" height="300"/>
-	<img src="./media/7.png" alt="aska-oprema-za-igraonice-5" height="300"/>
+	<img src="./media/3.png" alt="aska-media" height="300"/>
+    <img src="./media/4.png" alt="aska-media" height="300"/>
+	<img src="./media/7.png" alt="aska-media" height="300"/>
 	</div>
   </div>
   
   
   <!-- Tekst Pucacina -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija" itemscope itemtype="https://schema.org/Offer">
-    <h3 class="border-bottom pb-2 mb-0">Laser tag</h3>
+    <h4 class="border-bottom pb-2 mb-0">Laser tag</h4>
 	<div class="d-flex text-muted pt-3">
-	  <img itemscope itemprop="image" src="media/aska.png" width="32" height="32" class="avatar"  alt="aska"/>
+	  <img itemscope itemprop="image" src="media/aska.png" width="42" height="42" class="avatar"  alt="aska"/>
 	  <p class="pb-3 mb-0 small lh-sm border-bottom">
 	  Za sve ljubitelje pucačine Laser Tag je vrhunski izbor! Učesnici koriste laser puške, a arena je uređena kao iz prave video igrice sa lavirintima, preprekama i efektnim laserskim osvetljenjem.
 	  </p>
-	</div>		
+	</div>
+	<h4 class="border-bottom pb-2 mb-0">Laser maze</h4>
+	<div class="d-flex text-muted pt-3">
+	  <img itemscope itemprop="image" src="media/aska.png" width="42" height="42" class="avatar"  alt="aska"/>
+	  <p class="pb-3 mb-0 small lh-sm border-bottom">
+	  Apsolutni hit za igru i zabavu! Laser maze je takozvana "Pink Panter" soba koje sadrži laserske snopove, razne senzore, zvučne efekte, monitore i displeje. Učesnik igre rešava zadatke 
+	  pokušavajući da izbegne laserske snopove provlačenjem ili preskakanjem kako bi došao do željenog cilja.
+	  </p>
+	</div>
+	<h4 class="border-bottom pb-2 mb-0">Trampolina parkovi</h4>
+	<div class="d-flex text-muted pt-3">
+	  <img itemscope itemprop="image" src="media/aska.png" width="42" height="42" class="avatar"  alt="aska"/>
+	  <p class="pb-3 mb-0 small lh-sm border-bottom">
+	  Izrada igraonica sa trampolinama. Trampoline mogu biti raznih veličina, kose. Tramboline sa vertikalnim zidovima i senzorima za skakanje. Trampoline mogu biti Olimpik trampoline 
+	  za ekstremno skakanje. U izradi trampolina parkova koriste se atestirane opruge, platna i strunjače.
+	  </p>
+	</div>
+	<h4 class="border-bottom pb-2 mb-0">Remont igraonica</h4>
+	<div class="d-flex text-muted pt-3">
+	  <img itemscope itemprop="image" src="media/aska.png" width="42" height="42" class="avatar"  alt="aska"/>
+	  <p class="pb-3 mb-0 small lh-sm border-bottom">
+	  Pružamo visokokvalitetnu uslugu remonta igraonica kako u Srbiji tako i u zemljama u okruženju! Redizajn i remont igraonica od bilo kog proizvođača.
+	  </p>
+	</div>	
   </div>
   
   
   <!-- Slike -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
-    <h6 class="border-bottom pb-2 mb-0">Zanimljiva Igrališta, Tobogani, Oslikavanje zidova</h6>
+    <h4 class="border-bottom pb-2 mb-0">Zanimljiva Igrališta, Tobogani, Oslikavanje zidova</h4>
 	<div class="pictures">
 	<img src="./media/aska-oprema-za-igraonice-1.png" alt="aska-oprema-za-igraonice-1" />
 	<img src="./media/aska-oprema-za-igraonice-3.png" alt="aska-oprema-za-igraonice-3" />
@@ -152,13 +177,25 @@ include './include/sub-nav.php';
   
   <!-- Tekst Trampoline -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija" itemscope itemtype="https://schema.org/Offer">
-    <h3 class="border-bottom pb-2 mb-0">Izrada trampolina u svim obličima i veličinama!</h3>
+    <h4 class="border-bottom pb-2 mb-0">Izrada trampolina u svim obličima i veličinama!</h4>
 	<div class="d-flex text-muted pt-3">
+	  <img itemscope itemprop="image" src="media/aska.png" width="42" height="42" class="avatar"  alt="aska"/>
 	  <p class="pb-3 mb-0 small lh-sm border-bottom">
         - Klasične trampoline, kose trampoline<br/>
         - Trampoline sa vertikalnim zidovima i senzorima za skakanje<br/>
         - Olimpik trampoline (ekstremno skakanje)<br/>
         - Trampolina parkovi - prvoklasan kvalitet i dug vek trajanja
+	  </p>
+	</div>
+	<h4 class="border-bottom pb-2 mb-0">Tobogani! Izrada tobogana po narudžbini!</h4>
+	<div class="d-flex text-muted pt-3">
+	  <img itemscope itemprop="image" src="media/aska.png" width="42" height="42" class="avatar"  alt="aska"/>
+	  <p class="pb-3 mb-0 small lh-sm border-bottom">
+        - Spiralni tobogani<br/>
+        - Polukružni tobogani<br/>
+        - Ravni tobogani<br/>
+        - Dupli tobogani (dve staze)<br/>
+        
 	  </p>
 	</div>		
   </div>
@@ -166,7 +203,7 @@ include './include/sub-nav.php';
   
   <!-- Slike -->
   <div class="my-3 p-3 bg-body rounded shadow-sm sedamdeset animacija">
-    <h6 class="border-bottom pb-2 mb-0">Kavezi, Lavirinti, Prepreke</h6>
+    <h4 class="border-bottom pb-2 mb-0">Kavezi, Lavirinti, Prepreke</h4>
 	<div class="pictures">
 	<img src="./media/aska-oprema-za-igraonice-7.png" alt="aska-oprema-za-igraonice-7" />
     <img src="./media/aska-oprema-za-igraonice-8.png" alt="aska-oprema-za-igraonice-8" />
