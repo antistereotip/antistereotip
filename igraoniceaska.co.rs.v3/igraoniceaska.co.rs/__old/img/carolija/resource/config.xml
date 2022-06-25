@@ -1,0 +1,14 @@
+<config>
+  <swf width="660" height="650" scaleMode="noScale" alignMode="TL" preloaderSize="0" bgSoundLoop="true" />
+  <preloader percentTextColor="16777215" bgColor="6710886" size="0" url="resource/res/others/default.swf">
+  </preloader>
+  <dataLoadControl size="1" url="resource/res/others/datacontrol.swf" />
+  <player size="0" url="resource/res/others/player.swf" />
+  <playMode startType="" playType="manualPlay" endType="showReplayButton" />
+  <imgDescription position="bottom" showType="auto" />
+  <maTempXMLData url="resource/res/others/template/template.xml" />
+  <maAlbumListData url="resource/album.xml" />
+  <tempBackGround>
+  <backColor color="16777215" />
+</tempBackGround>
+</config>

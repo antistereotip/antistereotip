@@ -1,0 +1,106 @@
+#Force non-www:
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^igraoniceaska\.co.rs [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://igraoniceaska.co.rs/$1 [R,L]
+ErrorDocument 404 /404.html
+
+
+RewriteCond %{HTTP_HOST} ^www\.igraoniceaska\.co.rs$
+RewriteRule ^/?$ "http\:\/\/igraoniceaska\.co.rs\/" [R=301,L]
+
+
+# BEGIN cPanel-generated php ini directives, do not edit
+# Manual editing of this file may result in unexpected behavior.
+# To make changes to this file, use the cPanel MultiPHP INI Editor (Home >> Software >> MultiPHP INI Editor)
+# For more information, read our documentation (https://go.cpanel.net/EA4ModifyINI)
+<IfModule php5_module>
+   php_flag asp_tags Off
+   php_flag display_errors On
+   php_value max_execution_time 30
+   php_value max_input_time 60
+   php_value max_input_vars 1000
+   php_value memory_limit 512M
+   php_value session.gc_maxlifetime 1440
+   php_value session.save_path "/tmp"
+   php_value upload_max_filesize 8M
+</IfModule>
+# END cPanel-generated php ini directives, do not edit
+
+#gzip kompresija
+<ifModule mod_gzip.c>
+mod_gzip_on Yes
+mod_gzip_dechunk Yes
+mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
+mod_gzip_item_include handler ^cgi-script$
+mod_gzip_item_include mime ^text/.*
+mod_gzip_item_include mime ^application/x-javascript.*
+mod_gzip_item_exclude mime ^image/.*
+mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+</ifModule>
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+AddOutputFilterByType DEFLATE application/x-httpd-php
+AddOutputFilterByType DEFLATE application/x-httpd-fastphp
+AddOutputFilterByType DEFLATE image/svg+xml
+SetOutputFilter DEFLATE
+</IfModule>
+
+
+# cache
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 week"
+ExpiresByType image/jpeg "access 1 week"
+ExpiresByType image/gif "access 1 week"
+ExpiresByType image/png "access 1 week"
+ExpiresByType text/css "access 1 week"
+ExpiresByType application/pdf "access 1 week"
+ExpiresByType text/x-javascript "access 1 week"
+ExpiresByType application/x-shockwave-flash "access 1 week"
+ExpiresByType image/x-icon "access 1 week"
+ExpiresDefault "access 1 week"
+</IfModule>
+
+<IfModule mod_headers.c>
+<FilesMatch "\.(js|css|xml|gz)$">
+  Header append Vary: Accept-Encoding
+</FilesMatch>
+</IfModule>
+
+<ifModule mod_headers.c>
+  Header unset ETag
+</ifModule>
+FileETag None
+ 
+<ifModule mod_headers.c>
+  Header unset Last-Modified
+</ifModule>
+
+# mode pagespeed
+<IfModule pagespeed_module>
+ModPagespeed on
+ModPagespeedEnableFilters
+extend_cache,combine_css,combine_javascript,collapse_whitespace,move_css_to_head
+</IfModule>
+
+# keep alive
+<IfModule mod_headers.c>
+Header set Connection keep-alive
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php80” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php80 .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

@@ -1,0 +1,5 @@
+div.d-flex.text-muted.pt-3 p.pb-3.mb-0.small.lh-sm.border-bottom {
+    font-size: 1.1em;color: #000;
+}
+body > main > div:nth-child(1) > h6 > img {padding-right: 5px;}
+body > main > div:nth-child(1) > h6 > a {color: #333;text-decoration:none;font-size:1.1em;padding: 2px;}
