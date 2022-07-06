@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Oswald', sans-serif;
+}
+.header {
+	/* border-bottom: 1px solid #dc0101; */
+}
+.page {
+}
+.footer {
+	border-top: 1px solid #dc0101;
+}
+.column {
+	border: 1px solid #888;
+	width: 1024px;
+	margin: 0px auto;
+}
+.page .column {
+	/*border: 1px solid #888;*/
+	height: 100vh;
+}
+#logo {
+	text-align: left; 
+}
+#logo img {padding: 20px;}
+#main-menu {
+	display: flex;
+}
+#main-menu a {
+	flex-grow: 1;
+	text-align: center;
+	display: block;
+	padding: 10px 0;
+	color: #dc0101;
+	transition: 500ms;
+	text-decoration: none;
+}
+#main-menu a:hover,
+#main-menu a.active {
+	background: #dc0101;
+	color: #fff;
+}
+#pocetna {
+	text-align: left;
+	background: url('slika1.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.light-box h1,
+.light-box p {
+	color: #fff;
+	margin-top: 0px;
+	padding: 10px; 
+}
+.light-box h1 {
+	padding-top: 20px;
+}
+.dark-box {
+	margin: 0px;
+	background: #33333350;
+	border-top: 1px solid #888;
+	font-size: 24pt;
+	color: #fff;
+	padding: 20px;
+
+}
+
+
