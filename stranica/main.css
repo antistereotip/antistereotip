@@ -14,7 +14,7 @@ body {
 	border-top: 1px solid #dc0101;
 }
 .column {
-	border: 1px solid #888;
+	/* border: 1px solid #888; */
 	width: 1024px;
 	margin: 0px auto;
 }
@@ -49,6 +49,9 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+#pocetna img {
+	padding: 10px;
+}
 .light-box h1,
 .light-box p {
 	color: #fff;
@@ -60,12 +63,14 @@ body {
 }
 .dark-box {
 	margin: 0px;
-	background: #33333350;
+	background: #55555550;
 	border-top: 1px solid #888;
 	font-size: 24pt;
 	color: #fff;
 	padding: 20px;
 
 }
-
+.pixel img {
+	float:left;
+}
 
