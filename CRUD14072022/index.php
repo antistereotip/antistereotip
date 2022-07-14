@@ -11,12 +11,12 @@ $result = $pdo_statement->fetchAll();
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="main.css">
 
-<link rel="shortcut icon" type="image/png" href="logo.png"/>
+<link rel="shortcut icon" type="image/png" href="img/logo.png"/>
 </head>
 <body>
 
 <div class="header">
-    <h1 class="naslov" id="naslov"><img src="img/4.jpg" width="120" height="auto"></h1>
+    <h1 class="naslov" id="naslov"><img src="img/antistereotip-logo.jpg" width="120" height="auto"></h1>
     
     <h2 class="podnaslov animacija">NAJBOLJI MEĐU NAJBOLJIMA, ZNANJE JE MOĆ...</h2>
     <h4>"Nije znanje znanje znati, već je znanje znanje dati" - J.J.Zmaj</h4>
@@ -32,7 +32,7 @@ $result = $pdo_statement->fetchAll();
     univerzitet u Srbiji</strong>. I da, uspećemo u tome. Nije pitanje - možemo li ? Pitanje je hoćemo li ? U timu ima mesta za 1111 programera i IT entuzijasta. 
     Postoji matrica koja oblikuje tim. To će biti tim iz snova. I da, <strong>Nikad ne odustaj</strong> - RIP Danilo Bogdanov... Još nešto - <strong>Snovi nas čine živim</strong> - M.
     </p>
-    <p><img src="img/me4.jpg" width="150"/></p>
+    <p><img src="img/milutin.jpg" width="150"/></p>
     <p><b>Pozovite: +381659511404</b></p>
     <p class="paragraf">Tehnički deo za sada je <b>PHP</b> programski jezik i <b>MySQL</b> baza podataka sa <b>PHP PDO</b> drajverom, dok u budućnosti planiramo <b>NoDB</b> 
     rešenje sa <b>LISP</b>-om ili <b>ANSI-C</b>-om. Trenutno je nemoguće pristupiti administratorskom panelu bez hardverskog ključa <b>(USB)</b>. Takav pristup štiti sajt od 
@@ -77,17 +77,18 @@ $result = $pdo_statement->fetchAll();
 
 <div class="footer">
     <h1>2012 - 2077 Cyberpunk</h1>
+    <p><img src="img/hightech.gif" width="50"></p>
     <p class="paragraf">Cena <b>animiranog logotipa</b> u futeru iznosi <strong>99 EUR plus PDV</strong>. Mesta su takođe limitirana. Sav prikupljen novac ide u izgradnju projekta. Svaki RSD ili EURO 
     će biti transparentno objavljen na sajtu i svako će moći da vidi šta se dešava sa njegovim novcem. Deo će ići za infrastrukturu a deo za stručni kadar.</p>
-    <p><img src="img/gavrilovic.gif" width="400"><img src="img/ghost.gif" width="400"></p>
+    <p><img src="img/gavrilovic.gif" width="400"><img src="img/ghost-animacija.gif" width="400"></p>
     <p><img src="img/aska.gif" width="400"><img src="img/lili.gif" width="400"></p>
-    <p><img src="img/goranzarubica.gif" width="400"><img src="img/animatedjaca4.gif" width="400"></p>
-    <p></p><p><img src="img/logo-shadowserver1.png" width="220"></p>
+    <p><img src="img/goranzarubica.gif" width="400"><img src="img/jasmina-animacija.gif" width="400"></p>
+    <p></p><p><img src="img/shadowserver.png" width="220"></p>
     
     <h4>Follow The White Rabbit</h4>
     <p><img src="img/rabbit.png" width="220"></p>
     
-<p><img src="img/gia.png" width="128"><img src="img/uskrs-logo.jpg" width="128"><img src="img/ghost3.png" width="128"><img src="img/uskrs2-logo.jpg" width="128">
+<p><img src="img/gia.png" width="128"><img src="img/uskrs-logo.jpg" width="128"><img src="img/ghost.png" width="128"><img src="img/uskrs2-logo.jpg" width="128">
 </p>
 <?php
 function folderSize($dir){

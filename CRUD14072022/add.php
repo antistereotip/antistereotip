@@ -21,7 +21,7 @@ if(!empty($_POST["add_record"])) {
 <head>
 <title>Dodaj zapis</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="shortcut icon" type="image/png" href="logo.png"/>
+<link rel="shortcut icon" type="image/png" href="img/logo.png"/>
 <style>
 body{width:1200;font-family:arial;letter-spacing:1px;line-height:20px;margin: 0 auto;}
 .button_link {color:#FFF;text-decoration:none; background-color:#428a8e;padding:10px;}
