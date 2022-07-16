@@ -1,0 +1,146 @@
+body{
+    color: #444;
+    width:1200px;
+    font-family:arial;
+    letter-spacing:1px;
+    line-height:20px;
+    margin: 0 auto;
+    font-size: 0.8em;
+}
+
+.tbl-qa{
+    width: 100%;
+    font-size:0.9em;
+    background-color: #f5f5f5;
+}
+
+.tbl-qa th.table-header {
+    padding: 5px;
+    text-align: left;
+    padding:10px;
+}
+
+.tbl-qa .table-row td {
+    padding:10px;
+    background-color: #FDFDFD;
+    vertical-align:top;
+}
+
+.button_link {
+    color:#FFF;
+    text-decoration:none; 
+    background-color:#428a8e;
+    padding:10px;
+}
+
+td img {padding: 10px;}
+
+.table-row td {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.header {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center; 
+    margin: 0 auto;
+}
+
+.header h4 {color: #6b96b5;}
+
+.footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center; 
+    margin: 0 auto;
+}
+
+.naslov {padding: 10px;}
+.podnaslov {padding: 10px;}
+.paragraf {padding: 20px;
+            text-align: justify;
+            text-justify: inter-word;
+}
+
+strong, b {color: #777;}
+.paragraf b {color: #6b96b5;}
+.animacija {
+-webkit-animation: cssAnimation 1s 1 ease;
+-moz-animation: cssAnimation 1s 1 ease;
+-o-animation: cssAnimation 1s 1 ease;
+}
+
+@-webkit-keyframes cssAnimation {
+from { -webkit-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -webkit-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+
+@-moz-keyframes cssAnimation {
+from { -moz-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -moz-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+
+@-o-keyframes cssAnimation {
+from { -o-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -o-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
