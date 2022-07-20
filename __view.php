@@ -1,5 +1,5 @@
 <?php
-require_once('db.php');
+require_once('__db.php');
 $pdo_statement = $pdo_conn->prepare("SELECT * FROM posts where id=" . $_GET["id"]);
 $pdo_statement->execute();
 $result = $pdo_statement->fetchAll();
