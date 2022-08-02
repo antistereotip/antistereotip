@@ -1,0 +1,125 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+body {
+	margin: 0 auto;
+	padding: 2%; 
+	width: 96%;
+	color: #444;
+}
+article {
+	padding: 3%; width: 94%;
+	float: left;
+	margin-bottom: 15px;
+	-webkit-box-shadow: -6px 1px 22px -11px rgba(0,0,0,0.75);
+	-moz-box-shadow: -6px 1px 22px -11px rgba(0,0,0,0.75);
+	box-shadow: -6px 1px 22px -11px rgba(0,0,0,0.75);
+}
+
+header {
+	width: 96%;
+	padding: 2%;
+	text-align: justify;
+	text-justify: inter-word;
+}
+footer {
+	width: 96%;
+	padding: 2%;
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.res {font-size: 1.2em;}
+
+.img {
+	width: 18%;
+    padding: 1%;
+	float: left;
+	
+}
+.img img {
+	width: 150px; 
+	height: 150px;
+	-webkit-box-shadow: -6px 1px 15px -11px rgba(0,0,0,0.75);
+	-moz-box-shadow: -6px 1px 15px -11px rgba(0,0,0,0.75);
+	box-shadow: -6px 1px 15px -11px rgba(0,0,0,0.75);
+}
+
+.sum {
+	width: 18%;
+    padding: 1%;
+	float: left;
+}
+.sum h2 {
+	font-size: 0.95em;
+}
+ .sum h4 {
+	font-size: 0.7em;
+}
+
+.desc {
+	width: 38%;
+    padding: 1%;
+	float: left;
+	text-align: justify;
+	text-justify: inter-word;
+	-webkit-box-shadow: 6px 1px 15px -11px rgba(0,0,0,0.75);
+	-moz-box-shadow: 6px 1px 15px -11px rgba(0,0,0,0.75);
+	box-shadow: 6px 1px 15px -11px rgba(0,0,0,0.75);
+}
+.desc button {
+	padding: 5px;
+}
+.desc a {
+	text-decoration: none;
+	color: #777;
+}
+
+.link {
+	width: 18%;
+    padding: 1%;
+	float: left;
+	text-align: right;
+}
+.link p {
+	margin-bottom: 10px;
+}
+
+.print {
+	padding: 1%;
+}
+
+.one button {
+	margin-bottom: 10px;
+	padding: 5px;
+}
+.two button  {
+	padding: 5px;
+}
+
+header .button a {
+	background: orangered;
+	padding: 1%;
+	color: white;
+	float: left;
+	margin-bottom: 10px;
+	margin-left: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
