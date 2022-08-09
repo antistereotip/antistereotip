@@ -52,7 +52,7 @@ kao i žrtvama trafiking-a.
     $count = $query->rowCount();
     echo "<br /><p style='font-size: 1.2em; color: orangered;'>" . "$count rezultata" . "</p>";
     ?><br />
-<p><a href="add.php"><img src="crud-icon/add.jpg" width="32"></a></p>
+<p><a href="add.php"><img src="crud-icon/add.jpg" width="32"></a><span style="margin-left: 10px;"></span><a href="./upload"><img src="crud-icon/up.png" width="32"></a></p>
 </header>
 
 
