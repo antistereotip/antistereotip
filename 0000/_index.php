@@ -28,7 +28,7 @@ body {
 
 <?php
 define('MyConst', TRUE);
-require_once("_db.php");
+require_once("db.php");
 $data = $pdo_conn->query('SELECT link FROM posts')->fetchAll(PDO::FETCH_ASSOC);
 var_export($data);
 ?>
