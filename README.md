@@ -4,7 +4,7 @@
 
 ##### 📱 Encrypted e-mail: threewhiterabbits@protonmail.com
 
-<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" width="120"/>
+<img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" width="150"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antistereotip&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
