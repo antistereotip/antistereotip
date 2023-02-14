@@ -1,2 +1,0 @@
-[03-Sep-2021 18:17:30 UTC] PHP Notice:  Undefined property: stdClass::$img in /home/antister/public_html/usk.rs/ng1np/database/setup/tpl/_engine.php on line 31
-[03-Sep-2021 18:17:30 UTC] PHP Notice:  Undefined property: stdClass::$date in /home/antister/public_html/usk.rs/ng1np/database/setup/tpl/_engine.php on line 33

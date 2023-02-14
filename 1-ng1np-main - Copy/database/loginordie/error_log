@@ -1,8 +1,0 @@
-[03-Sep-2021 18:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/antister/public_html/usk.rs/ng1np/database/loginordie/login.php:23
-Stack trace:
-#0 {main}
-  thrown in /home/antister/public_html/usk.rs/ng1np/database/loginordie/login.php on line 23
-[03-Sep-2021 18:19:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/antister/public_html/usk.rs/ng1np/database/loginordie/login.php:23
-Stack trace:
-#0 {main}
-  thrown in /home/antister/public_html/usk.rs/ng1np/database/loginordie/login.php on line 23
