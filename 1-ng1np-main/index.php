@@ -1,4 +1,5 @@
 <?php
+error_reporting(E_ERROR | E_WARNING | E_PARSE); 
 #--------engine up---------------------------------------#
 #--------hightech - It's not a bug, it's a feature-------#
 
