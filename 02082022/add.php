@@ -1,5 +1,5 @@
 <?php
-die('Medvedima pristup zabranjen !!!');
+//die('Medvedima pristup zabranjen !!!');
 if(!empty($_POST["add_record"])) {
 	require_once("db.php");
 	$sql = "INSERT INTO posts ( post_title, sum, description, img, link, post_at ) VALUES ( :post_title, :sum, :description, :img, :link, :post_at )";

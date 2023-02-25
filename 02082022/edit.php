@@ -1,5 +1,5 @@
 <?php
-die('Medvedima pristup zabranjen !!!');
+//die('Medvedima pristup zabranjen !!!');
 require_once("db.php");
 if(!empty($_POST["save_record"])) {
 	$pdo_statement=$pdo_conn->prepare("

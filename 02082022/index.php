@@ -1,4 +1,26 @@
 <?php
+#--------kompresuj_stranicu---------#
+function KompresujStranu($Baferuj) {
+  $Pretrazi = array(
+        '/\>[^\S ]+/s',  // ocisti razmake izmedju tagova, izuzev spejsa
+        '/[^\S ]+\</s',  // ocisti razmake pre tagova, izuzev spejsa
+        '/(\s)+/s'       // skrati vise spojenih spejsova
+    );
+  $Zameni = array(
+        '>',
+        '<',
+        '\\1'
+    );
+    return preg_replace($Pretrazi, $Zameni, $Baferuj);
+}
+#--------ukljuci nivo kompresije---------#
+if (@ini_set('zlib.output_compression',TRUE) || @ini_set('zlib.output_compression_level',2)) 
+			{ob_start('KompresujStranu');} else { ob_start('ob_gzhandler');}
+ 
+?>
+
+
+<?php
 require_once('db.php');
 $pdo_statement = $pdo_conn->prepare("SELECT * FROM posts ORDER BY id DESC");
 $pdo_statement->execute();
@@ -29,7 +51,8 @@ kao i žrtvama trafiking-a.
     $query = $pdo_conn->query("SELECT * FROM posts");
     $count = $query->rowCount();
     echo "<br /><p style='font-size: 1.2em; color: orangered;'>" . "$count rezultata" . "</p>";
-    ?>
+    ?><br />
+<p><a href="add.php"><img src="crud-icon/add.jpg" width="32"></a><span style="margin-left: 10px;"></span><a href="./upload"><img src="crud-icon/up.png" width="32"></a></p>
 </header>
 
 
@@ -78,3 +101,8 @@ if(!empty($result)) {
 
 </body>
 </html>
+
+<?php 
+#--------kraj kompresije---------#
+if(extension_loaded('zlib')) { ob_end_flush(); } 
+?>
