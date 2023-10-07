@@ -1,5 +1,6 @@
 <?php
 define('ROOT_DIR', realpath(dirname(__FILE__)) .'/');
+
 ?>
 
 <html>
