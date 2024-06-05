@@ -83,10 +83,13 @@ p {
 
 .h2, h2 {
     font-size: 2rem;
-    padding-bottom: 2%;
+    padding-bottom: 1%;
 }
 
-
+.h3, h3 {
+    padding-top: 2%;
+    font-size: 1.75rem;
+}
 
 
 element.style {
