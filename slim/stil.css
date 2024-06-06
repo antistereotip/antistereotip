@@ -133,3 +133,9 @@ element.style {
     color: #fff;
     background-color: #454a4e;
 }
+	
+@media (max-width: 480px) {
+	body > nav > div.dropdown.language {
+		padding-top: 2.5%;
+	}
+}
