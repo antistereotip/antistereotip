@@ -90,7 +90,9 @@ p {
     padding-top: 2%;
     font-size: 1.75rem;
 }
-
+.carousel {
+	padding-top: 0;
+}
 
 element.style {
     margin-bottom: 0;

@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SlimFitVape</title>
+    <title>Antistereotip</title>
    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
 crossorigin="anonymous">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,7 +23,7 @@ crossorigin="anonymous">
    
 
    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-	<a class="navbar-brand" href="#">
+	<a class="navbar-brand" href="razumni-rs.html">
 		<img src="logo.png" width="50" height="50" alt="">
 	</a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -35,16 +35,9 @@ crossorigin="anonymous">
 			<li class="nav-item active">
 				<a class="nav-link" href="razumni-fr.html">Page d'accueil <span class="sr-only">(current)</span></a>
 			</li>
-			<!--<li class="nav-item dropdown">
-				<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-					Proizvodi
-				</a>
-				<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					<a class="dropdown-item" href="vape-1.html">Slim 1 Fit Vape</a>
-					<a class="dropdown-item" href="vape-2.html">Slim 2 Fit Vape</a>
-					<a class="dropdown-item" href="vape-3.html">Slim 3 Fit Vape</a>
-				</div>
-			</li>-->
+			<li class="nav-item">
+				<a class="nav-link" href="#">À propos de nous</a>
+			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="contact-fr.html">Contact</a>
 			</li>
@@ -105,8 +98,43 @@ crossorigin="anonymous">
 
 
 <div class="container p-3 my-3 border">
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+  Lancer la fenêtre modale de démonstration
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Titre du module</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        C'est un site web, ce n'est pas de la rocket science.
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Fermer</button>
+        <button type="button" class="btn btn-primary">Enregistrer les modifications</button>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="container p-3 my-3 border">
 <div class="jumbotron text-center">
-<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+<h3 class="carousel">Carousel - Slide</h3><br />
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="bitch1.png" alt="First slide">
@@ -118,11 +146,11 @@ crossorigin="anonymous">
       <img class="d-block w-100" src="bitch3.png" alt="Third slide">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
