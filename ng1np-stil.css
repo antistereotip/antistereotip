@@ -1,0 +1,59 @@
+a, abbr, acronym, address, applet, article, aside, audio,
+b, blockquote, big, body,
+center, canvas, caption, cite, code, command,
+datalist, dd, del, details, dfn, dl, div, dt, 
+em, embed,
+fieldset, figcaption, figure, font, footer, form, 
+h1, h2, h3, h4, h5, h6, header, hgroup, html,
+i, iframe, img, ins,
+kbd, 
+keygen,
+label, legend, li, 
+meter,
+nav,
+object, ol, output,
+p, pre, progress,
+q, 
+s, samp, section, small, span, source, strike, strong, sub, sup,
+table, tbody, tfoot, thead, th, tr, tdvideo, tt,
+u, ul, 
+var{
+    margin: 0;
+    padding: 0;
+    }
+body {background: #222; margin 2% auto; padding: 2%;}
+section {width: 58%; padding:1%; float: left;} 
+aside {width: 38%; padding: 1%; float: left;} 
+nav {padding-top: 20px; padding-bottom: 20px;}
+nav li { display: inline; padding: 0.5%;} 
+nav li a {color: yellow;}
+footer {width: 98%; padding: 1%; float: left;} 
+p {font-size: 1.3em; color: orangered;}
+p marquee {background: #111; padding: 0.2%;}
+marquee {color: #17f118;}
+h1 {color: #17f118;}
+h2 {color: orange;}
+h3 {color: #17f888;}
+h4 {color: #67dcc7;}
+h5 {color: #14f338;}
+h6 {color: #17f558;}
+h3 a {color: white;}
+b {color: orangered;}
+.razmak_dole {padding-bottom: 15px;}
+.razmak_gore {padding-top: 15px;}
+.animacija {
+-webkit-animation: cssAnimation 1s 1 ease;
+-moz-animation: cssAnimation 1s 1 ease;
+-o-animation: cssAnimation 1s 1 ease;
+}
+@-webkit-keyframes cssAnimation {
+from { -webkit-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -webkit-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+@-moz-keyframes cssAnimation {
+from { -moz-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -moz-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+@-o-keyframes cssAnimation {
+from { -o-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -o-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
