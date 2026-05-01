@@ -1,0 +1,4 @@
+inc/header, footer, meni, stil
+lib/default.php, god.php
+set/class.php, fnc.php
+up/default.tpl, god.tpl
